@@ -1,2 +1,2 @@
-fpdf==1.7.2
-pycryptodome==3.23.0
+pycryptodome
+fpdf
