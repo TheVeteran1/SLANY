@@ -13,7 +13,8 @@ git clone https://github.com/TheVeteran1/SLANY.git
 cd SLANY
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install pycryptodome
+pip install fpdf
 python Slany.py
 
 
