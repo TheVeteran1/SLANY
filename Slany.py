@@ -106,7 +106,7 @@ def main():
             key = get_key(password)
             decrypt_file(file, key)
         elif choice == '3':
-            print(" Exiting SLANY. Goodbye!")
+            print(" Exiting SLANY. Goodbye")
             break
         else:
             print(" Invalid Option")
